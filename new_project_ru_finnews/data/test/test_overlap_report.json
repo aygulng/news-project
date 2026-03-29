@@ -1,0 +1,11 @@
+{
+  "input_rows_before_cleaning": 73564,
+  "train_corpus_rows": 1500,
+  "candidate_non_overlap_rows": 34255,
+  "test_corpus_rows": 300,
+  "test_ner_rows": 274,
+  "test_sentiment_rows": 274,
+  "overlap_exact_count": 0,
+  "overlap_pattern_count": 0,
+  "status": "ok"
+}

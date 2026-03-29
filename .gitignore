@@ -1,0 +1,20 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+.vscode/
+*.log
+
+# Project artifacts that should not be versioned
+new_project_ru_finnews/logs/
+new_project_ru_finnews/data/experiments/
+new_project_ru_finnews/data/spacy/
+
+# Large model/checkpoint artifacts
+**/checkpoint-*/
+**/*.safetensors
+**/*.bin
+**/optimizer.pt
+**/scheduler.pt
+**/rng_state.pth

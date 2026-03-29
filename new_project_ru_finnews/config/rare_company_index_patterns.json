@@ -1,0 +1,839 @@
+[
+  {
+    "label": "Company",
+    "pattern": "Alphabet",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Amazon",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Apple",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Berkshire Hathaway",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Cian",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Fix Price",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Goldman Sachs",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "HeadHunter",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "JPMorgan",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Meta",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Microsoft",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Morgan Stanley",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "NVIDIA",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Ozon",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "SFI",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Tesla",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Wildberries",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "X5 Group",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Альфа-Банк",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Банк России",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "ВТБ",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Газпром",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Интер РАО",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Лукойл",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Мосбиржа",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Московская биржа",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "МТС",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "НОВАТЭК",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Норникель",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Роснефть",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Сбер",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Сбербанк",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Северсталь",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "СПБ Биржа",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Т-Банк",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "ФосАгро",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "ЦБ",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Company",
+    "pattern": "Яндекс",
+    "id": "ruler:Company"
+  },
+  {
+    "label": "Index",
+    "pattern": "CSI 300",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "DAX",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Dow Jones",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Euro Stoxx 50",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "FTSE 100",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Hang Seng",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "IMOEX",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "MSCI Emerging Markets",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Nasdaq",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Nasdaq 100",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Nasdaq Composite",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Nikkei",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Nikkei 225",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "RGBI",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "RTS",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Russell 2000",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "S&P 500",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Shanghai Composite",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Index",
+    "pattern": "Индекс МосБиржи",
+    "id": "ruler:Index"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "Brent",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "Urals",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "WTI",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "газ",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "железная руда",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "золото",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "кобальт",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "литий",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "нефть",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "палладий",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "платина",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "природный газ",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "пшеница",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "серебро",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "СПГ",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "уголь",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Commodity",
+    "pattern": "уран",
+    "id": "ruler:Commodity"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "IN": [
+            "ключевая",
+            "ключевой"
+          ]
+        }
+      },
+      {
+        "LOWER": {
+          "REGEX": "ставк\\w*"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)IPO(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)SPO(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)buyback\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)guidance\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)банкрот\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)дефолт\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)дивиденд\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)отчетност\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)поглощени\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)размещени\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)санкци\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)слияни\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)ставк\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)эмисси\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Event",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "денежно"
+        }
+      },
+      {
+        "LOWER": {
+          "REGEX": "кредитн\\w*"
+        }
+      },
+      {
+        "LOWER": {
+          "REGEX": "политик\\w*"
+        }
+      }
+    ],
+    "id": "ruler:Event"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)agro\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)chemical\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)mining\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)transport\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)банковск\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)девелопер\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)индустр\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)металлург\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)недвижимост\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)нефтегаз\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)отрасл\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)потребительск\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)ритейл\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)сектор\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)телеком\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)технологическ\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)финансов\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Sector",
+    "pattern": [
+      {
+        "LOWER": {
+          "REGEX": "(?<!\\w)энергет\\w*(?!\\w)"
+        }
+      }
+    ],
+    "id": "ruler:Sector"
+  },
+  {
+    "label": "Location",
+    "pattern": "АТР",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "Еврозона",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "Европа",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "ЕС",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "Индия",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "Китай",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "Москва",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "ОАЭ",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "ОПЕК",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "ОПЕК+",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "Россия",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "РФ",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "Санкт-Петербург",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "Саудовская Аравия",
+    "id": "ruler:Location"
+  },
+  {
+    "label": "Location",
+    "pattern": "США",
+    "id": "ruler:Location"
+  }
+]

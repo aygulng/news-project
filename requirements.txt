@@ -1,0 +1,15 @@
+datasets>=2.18.0,<3.0.0
+pandas>=2.0.0,<3.0.0
+scikit-learn>=1.4.0,<2.0.0
+nltk>=3.9.0,<4.0.0
+pymorphy2>=0.9.1,<1.0.0
+pymorphy2-dicts-ru>=2.4.417127.4579844,<3.0.0
+transformers>=4.46.0,<5.0.0
+accelerate>=1.13.0,<2.0.0
+seqeval>=1.2.2,<2.0.0
+streamlit>=1.37.0,<2.0.0
+# For ruBERT-base / .bin checkpoints with modern transformers use torch>=2.6.0.
+# Install torch separately for your platform:
+# https://pytorch.org/get-started/locally/
+# Optional:
+# spacy
